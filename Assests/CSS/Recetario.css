@@ -1,0 +1,64 @@
+.inline-block {
+  display: inline-block;
+  text-align: center;
+}
+
+.item {
+  border: 7px solid #4d194d;
+  background-color: #eddcd2;
+  width: 400px;
+  height: 600px;
+  margin: 15px;
+  border-radius: 15px;
+}
+
+.model-box {
+  background-color: #e85d04;
+  padding: 15px;
+  margin: auto;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.padding1 {
+  padding: 0px 10px;
+  color: #0b525b;
+  font-size: 25px;
+}
+.padding {
+  padding: 10px;
+  font-size: 18px;
+}
+.contenedor-principal {
+  padding: 10px;
+  border: 8px solid #cb997e;
+  margin: 100px;
+  border-radius: 30px;
+  width: 1400px;
+  background: #cb997e;
+}
+.borde-imagen {
+  border-radius: 70px;
+}
+.titulo {
+  background-color: #eddcd2;
+  padding: 30px;
+  margin: 30px 10px;
+  border-radius: 10px;
+  font-size: 35px;
+  font-weight: 900;
+  text-align: center;
+  color: #4d194d ;
+}
+.vw-vh {
+  width: 1400px;
+  height: 650px;
+  padding: 10px;
+  margin: 15px 10px;
+  text-align: inherit;
+}
+.color {
+  color: 10px solid #cb997e;
+}
+
